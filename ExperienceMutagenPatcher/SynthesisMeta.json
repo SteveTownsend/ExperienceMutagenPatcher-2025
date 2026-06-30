@@ -1,7 +1,9 @@
 {
-  "Nickname": "Experience Patcher",
+  "Nickname": "ExperienceMutagenPatcher-2025",
   "Visibility": "Visible",
   "OneLineDescription": "Generates a csv file for the Experience mod so that the kill function works on all NPCs.",
   "LongDescription": "",
-  "PreferredAutoVersioning": "Default"
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": []
 }
